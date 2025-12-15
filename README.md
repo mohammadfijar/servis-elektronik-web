@@ -4,6 +4,12 @@ Aplikasi berbasis **Laravel** untuk mengelola **pemesanan produk elektronik** da
 
 ---
 
+## 📸 Output
+
+IMG SRC
+
+---
+
 ## ✨ Fitur Utama
 
 ### 🔐 Autentikasi & Role
@@ -159,11 +165,7 @@ php artisan tinker
 Hash::make('password123');
 ```
 
----
 
-## 📸 Screenshot
-
-Tambahkan screenshot aplikasi di sini untuk memperjelas tampilan sistem.
 
 ---
 
@@ -176,7 +178,7 @@ Tambahkan screenshot aplikasi di sini untuk memperjelas tampilan sistem.
 
 ## 👨‍💻 Developer
 
-Muhammad Fijar
+Mohammad Fijar
 
 **Email**: [fijarsepta123@gmail.com](mailto:fijarsepta123@gmail.com)
 
